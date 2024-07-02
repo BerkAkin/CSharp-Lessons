@@ -12,3 +12,4 @@ c:\Users\buraka\Masaüstü\CSharp-Lessons\Lessons\obj\Debug\net8.0\refint\Lesson
 c:\Users\buraka\Masaüstü\CSharp-Lessons\Lessons\obj\Debug\net8.0\Lessons.pdb
 c:\Users\buraka\Masaüstü\CSharp-Lessons\Lessons\obj\Debug\net8.0\Lessons.genruntimeconfig.cache
 c:\Users\buraka\Masaüstü\CSharp-Lessons\Lessons\obj\Debug\net8.0\ref\Lessons.dll
+c:\Users\buraka\Masaüstü\CSharp-Lessons\Lessons\obj\Debug\net8.0\Lessons.sourcelink.json
