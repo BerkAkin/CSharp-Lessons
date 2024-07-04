@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.exe
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.dll
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\ref\Lesson1-Console-App.dll
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\bin\Debug\net5.0\Lesson1-Console-App.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.dll
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\ref\Lesson1-Console-App.dll
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lesson\Lesson1-Console-App\obj\Debug\net5.0\Lesson1-Console-App.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\ref\Lesson2-Variables.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\bin\Debug\net5.0\Lesson2-Variables.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\ref\Lesson2-Variables.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson2-Variables\obj\Debug\net5.0\Lesson2-Variables.genruntimeconfig.cache
