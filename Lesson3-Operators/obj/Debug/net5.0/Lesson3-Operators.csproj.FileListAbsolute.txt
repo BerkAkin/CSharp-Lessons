@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\ref\Lesson3-Operators.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\bin\Debug\net5.0\Lesson3-Operators.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\ref\Lesson3-Operators.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson3-Operators\obj\Debug\net5.0\Lesson3-Operators.genruntimeconfig.cache
