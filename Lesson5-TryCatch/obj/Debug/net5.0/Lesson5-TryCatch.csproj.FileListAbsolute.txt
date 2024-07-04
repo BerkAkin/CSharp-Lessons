@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\ref\Lesson5-TryCatch.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\bin\Debug\net5.0\Lesson5-TryCatch.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\ref\Lesson5-TryCatch.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson5-TryCatch\obj\Debug\net5.0\Lesson5-TryCatch.genruntimeconfig.cache
