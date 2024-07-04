@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj": {}
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj": {
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj",
+        "projectUniqueName": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj",
         "projectName": "Lesson3-Operators",
-        "projectPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj",
+        "projectPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\Lesson3-Operators.csproj",
         "packagesPath": "C:\\Users\\buraka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\obj\\",
+        "outputPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson3-Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buraka\\AppData\\Roaming\\NuGet\\NuGet.Config",
