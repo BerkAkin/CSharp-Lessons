@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj": {}
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj": {
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj",
+        "projectUniqueName": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj",
         "projectName": "Lesson5-TryCatch",
-        "projectPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj",
+        "projectPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\Lesson5-TryCatch.csproj",
         "packagesPath": "C:\\Users\\buraka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\obj\\",
+        "outputPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson5-TryCatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buraka\\AppData\\Roaming\\NuGet\\NuGet.Config",
