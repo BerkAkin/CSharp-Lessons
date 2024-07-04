@@ -1,11 +1,22 @@
 {
-    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
-    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
-    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
             "console": "externalTerminal"
+        },
+        {
+            "name": "C#: Lesson1-Console-App",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Lesson1-Console-App\\Lesson1-Console-App.csproj",
+            "launchConfigurationId": "TargetFramework=;Lesson1-Console-App"
+        },
+        {
+            "name": "C#: Lesson2-Variables",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Lesson2-Variables\\Lesson2-Variables.csproj",
+            "launchConfigurationId": "TargetFramework=;Lesson2-Variables"
         }
     ]
 }
