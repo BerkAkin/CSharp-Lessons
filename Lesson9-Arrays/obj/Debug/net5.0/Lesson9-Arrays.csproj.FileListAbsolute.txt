@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\ref\Lesson9-Arrays.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\bin\Debug\net5.0\Lesson9-Arrays.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\ref\Lesson9-Arrays.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson9-Arrays\obj\Debug\net5.0\Lesson9-Arrays.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson9-Arrays/1.0.0": {
+        "runtime": {
+          "Lesson9-Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9-Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
