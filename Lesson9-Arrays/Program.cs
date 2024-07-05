@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lesson9_Arrays
 {
@@ -38,6 +39,24 @@ namespace Lesson9_Arrays
                     Console.WriteLine(ikili[ilk, ikinci]);
                 }
             }
+
+
+
+            int[] sizeAble = new int[] { 1, 76, 3, 8, 43, 12, 7 };
+            Array.Sort(sizeAble);
+            int index = Array.IndexOf(sizeAble, 1);
+            Array.Resize<int>(ref sizeAble, 3);
+            foreach (int i in sizeAble)
+            {
+                Console.WriteLine("Sizeable: " + i);
+            }
+            Array.Resize<int>(ref sizeAble, 20);
+            sizeAble[9] = 123;
+            foreach (int i in sizeAble)
+            {
+                Console.WriteLine("Yeni Sizeable: " + i);
+            }
+
         }
     }
 }
