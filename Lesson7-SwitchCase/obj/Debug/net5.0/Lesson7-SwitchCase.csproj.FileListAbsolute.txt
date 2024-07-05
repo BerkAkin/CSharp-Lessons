@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\ref\Lesson7-SwitchCase.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\bin\Debug\net5.0\Lesson7-SwitchCase.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\ref\Lesson7-SwitchCase.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson7-SwitchCase\obj\Debug\net5.0\Lesson7-SwitchCase.genruntimeconfig.cache
