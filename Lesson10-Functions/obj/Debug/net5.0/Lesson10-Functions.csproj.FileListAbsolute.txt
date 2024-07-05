@@ -1,0 +1,16 @@
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.exe
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.deps.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.runtimeconfig.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.runtimeconfig.dev.json
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\ref\Lesson10-Functions.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\bin\Debug\net5.0\Lesson10-Functions.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.csproj.AssemblyReference.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.AssemblyInfoInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.AssemblyInfo.cs
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.csproj.CoreCompileInputs.cache
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\ref\Lesson10-Functions.dll
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.pdb
+C:\Users\buraka\Masaüstü\CSharp-Lessons\Lesson10-Functions\obj\Debug\net5.0\Lesson10-Functions.genruntimeconfig.cache
