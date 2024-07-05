@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj": {}
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj": {
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj",
+        "projectUniqueName": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj",
         "projectName": "Lesson10-Functions",
-        "projectPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj",
+        "projectPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\Lesson10-Functions.csproj",
         "packagesPath": "C:\\Users\\buraka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\obj\\",
+        "outputPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson10-Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buraka\\AppData\\Roaming\\NuGet\\NuGet.Config",
