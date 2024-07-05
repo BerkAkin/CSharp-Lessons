@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj": {}
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj": {
+    "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj",
+        "projectUniqueName": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj",
         "projectName": "Lesson8-Loops",
-        "projectPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj",
+        "projectPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\Lesson8-Loops.csproj",
         "packagesPath": "C:\\Users\\buraka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\obj\\",
+        "outputPath": "c:\\Users\\buraka\\Masaüstü\\CSharp-Lessons\\Lesson8-Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buraka\\AppData\\Roaming\\NuGet\\NuGet.Config",
