@@ -19,6 +19,7 @@ namespace Lesson10_Functions
             Console.WriteLine(fib.Fibonacci(10));
 
             //Extension Örneği
+            char [] dizi = "Merhaba".ConvertToChars();
 
 
         }
