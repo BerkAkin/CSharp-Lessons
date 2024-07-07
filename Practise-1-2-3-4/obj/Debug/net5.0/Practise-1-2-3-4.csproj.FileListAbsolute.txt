@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.exe
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.deps.json
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\ref\Practise-1-2-3-4.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\bin\Debug\net5.0\Practise-1-2-3-4.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\ref\Practise-1-2-3-4.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Practise-1-2-3-4\obj\Debug\net5.0\Practise-1-2-3-4.genruntimeconfig.cache
