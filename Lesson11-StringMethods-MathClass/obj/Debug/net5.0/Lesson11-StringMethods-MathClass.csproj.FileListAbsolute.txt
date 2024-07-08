@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.exe
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.deps.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\ref\Lesson11-StringMethods-MathClass.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\bin\Debug\net5.0\Lesson11-StringMethods-MathClass.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\ref\Lesson11-StringMethods-MathClass.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson11-StringMethods-MathClass\obj\Debug\net5.0\Lesson11-StringMethods-MathClass.genruntimeconfig.cache
