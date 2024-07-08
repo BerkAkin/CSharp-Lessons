@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson11-StringMethods-MathClass\\Lesson11-StringMethods-MathClass.csproj": {}
+    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson12-Collections\\Lesson12-Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson11-StringMethods-MathClass\\Lesson11-StringMethods-MathClass.csproj": {
+    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson12-Collections\\Lesson12-Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson11-StringMethods-MathClass\\Lesson11-StringMethods-MathClass.csproj",
-        "projectName": "Lesson11-StringMethods-MathClass",
-        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson11-StringMethods-MathClass\\Lesson11-StringMethods-MathClass.csproj",
+        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson12-Collections\\Lesson12-Collections.csproj",
+        "projectName": "Lesson12-Collections",
+        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson12-Collections\\Lesson12-Collections.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson11-StringMethods-MathClass\\obj\\",
+        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson12-Collections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
