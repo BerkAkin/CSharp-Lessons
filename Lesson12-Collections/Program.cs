@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Lesson12_Collections
@@ -56,7 +57,31 @@ namespace Lesson12_Collections
             }
 
 
+            //ArrayList
+            ArrayList karma = new ArrayList();
+            karma.Add("Berk");
+            karma.Add('c');
+            karma.Add(1);
+            karma.Add(true);
+
+            Console.WriteLine(karma[1]);
+
+            //AddRange
+            karma.AddRange(renkler);
+            Console.WriteLine(karma[2]);
+            karma.Sort();
+
+            karma.BinarySearch(2);
+            karma.Reverse();
+            karma.Clear();
+
+
+
             //Dictionary
+            Dictionary<int, string> alinacaklar = new Dictionary<int, string>();
+            alinacaklar.Add(0, "Elma");
+            alinacaklar.Add(1, "Şeftali");
+            alinacaklar.Add(2, "Muz");
         }
     }
 
