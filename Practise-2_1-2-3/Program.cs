@@ -69,8 +69,9 @@ namespace Practise_2_1_2_3
     {
         static void Main(string[] args)
         {
-            //Odev1
-            /* List<int> nums = new List<int>();
+            //????????????????????????????????? Odev1 ?????????????????????????????????
+
+            List<int> nums = new List<int>();
             List<int> asal = new List<int>();
             List<int> asalDegil = new List<int>();
 
@@ -131,51 +132,100 @@ namespace Practise_2_1_2_3
             {
                 Console.WriteLine(asala);
             }
- */
 
-            //Ödev 2
-            /*             int[] numbers = new int[20];
-                        for (int i = 0; i < 20; i++)
-                        {
-                            numbers[i] = Convert.ToInt32(Console.ReadLine());
-                        }
 
-                        Array.Sort(numbers);
+            //????????????????????????????????? Odev2 ?????????????????????????????????
 
-                        int[] smallestThree = new int[3];
-                        Array.Copy(numbers, smallestThree, 3);
+            int[] numbers = new int[20];
+            Console.WriteLine("20 Sayı Giriniz");
+            for (int i = 0; i < 20; i++)
+            {
+                numbers[i] = Convert.ToInt32(Console.ReadLine());
+            }
 
-                        int[] largestThree = new int[3];
-                        Array.Copy(numbers, numbers.Length - 3, largestThree, 0, 3);
+            Array.Sort(numbers);
 
-                        double smallestAverage = CalculateAverage(smallestThree);
-                        double largestAverage = CalculateAverage(largestThree);
-                        double totalAverage = CalculateAverage(numbers);
+            int[] smallestThree = new int[3];
+            Array.Copy(numbers, smallestThree, 3);
 
-                        Console.WriteLine("En küçük 3 sayı: " + string.Join(", ", smallestThree));
-                        Console.WriteLine("En küçük 3 sayının ortalaması: " + smallestAverage);
-                        Console.WriteLine();
+            int[] largestThree = new int[3];
+            Array.Copy(numbers, numbers.Length - 3, largestThree, 0, 3);
 
-                        Console.WriteLine("En büyük 3 sayı: " + string.Join(", ", largestThree));
-                        Console.WriteLine("En büyük 3 sayınun ortalaması: " + largestAverage);
-                        Console.WriteLine();
+            double smallestAverage = CalculateAverage(smallestThree);
+            double largestAverage = CalculateAverage(largestThree);
+            double totalAverage = CalculateAverage(numbers);
 
-                        Console.WriteLine("Tüm sayıların ortalaması: " + totalAverage);
-                    }
+            Console.WriteLine("En küçük 3 sayı: " + string.Join(", ", smallestThree));
+            Console.WriteLine("En küçük 3 sayının ortalaması: " + smallestAverage);
+            Console.WriteLine();
 
-                    static double CalculateAverage(int[] array)
-                    {
-                        if (array.Length == 0)
-                            return 0;
+            Console.WriteLine("En büyük 3 sayı: " + string.Join(", ", largestThree));
+            Console.WriteLine("En büyük 3 sayınun ortalaması: " + largestAverage);
+            Console.WriteLine();
 
-                        double sum = 0;
-                        foreach (int num in array)
-                        {
-                            sum += num;
-                        }
+            Console.WriteLine("Tüm sayıların ortalaması: " + totalAverage);
 
-                        return sum / array.Length;
-                    } */
+
+
+            //????????????????????????????????? Odev3 ?????????????????????????????????
+
+
+            Console.Write("Bir cümle giriniz: ");
+            string cumle = Console.ReadLine().ToLower();
+            List<char> sesliHarfler = new List<char>();
+
+            foreach (char c in cumle)
+            {
+                if (IsSesliHarf(c) && !sesliHarfler.Contains(c))
+                {
+                    sesliHarfler.Add(c);
+                }
+            }
+
+            sesliHarfler.Sort();
+
+            Console.WriteLine("Cümledeki sesli harfler:");
+            foreach (char harf in sesliHarfler)
+            {
+                Console.WriteLine(harf);
+            }
+
         }
+        static double CalculateAverage(int[] array)
+        {
+            if (array.Length == 0)
+                return 0;
+
+            double sum = 0;
+            foreach (int num in array)
+            {
+                sum += num;
+            }
+
+            return sum / array.Length;
+        }
+
+        static bool IsSesliHarf(char c)
+        {
+            switch (c)
+            {
+                case 'a':
+                case 'e':
+                case 'ı':
+                case 'i':
+                case 'o':
+                case 'ö':
+                case 'u':
+                case 'ü':
+                    return true;
+                default:
+                    return false;
+            }
+        }
+
+
     }
+
+
 }
+
