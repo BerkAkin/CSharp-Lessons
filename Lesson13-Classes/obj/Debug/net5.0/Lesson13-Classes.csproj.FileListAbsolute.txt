@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\ref\Lesson13-Classes.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\bin\Debug\net5.0\Lesson13-Classes.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\ref\Lesson13-Classes.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson13-Classes\obj\Debug\net5.0\Lesson13-Classes.genruntimeconfig.cache
