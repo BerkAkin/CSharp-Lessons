@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Lesson14_StaticClasses
-build_property.ProjectDir = C:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\
+build_property.ProjectDir = c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\

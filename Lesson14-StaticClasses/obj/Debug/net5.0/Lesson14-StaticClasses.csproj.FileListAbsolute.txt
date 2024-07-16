@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\ref\Lesson14-StaticClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\bin\Debug\net5.0\Lesson14-StaticClasses.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\ref\Lesson14-StaticClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson14-StaticClasses\obj\Debug\net5.0\Lesson14-StaticClasses.genruntimeconfig.cache
