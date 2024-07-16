@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise-2_1-2-3", "Practis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14-StaticClasses", "Lesson14-StaticClasses\Lesson14-StaticClasses.csproj", "{2921EA8A-9562-42A1-A346-AF17374969DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15-Struct", "Lesson15-Struct\Lesson15-Struct.csproj", "{CDA5FBEB-A205-40F7-907B-968BFCAC4607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2921EA8A-9562-42A1-A346-AF17374969DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2921EA8A-9562-42A1-A346-AF17374969DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2921EA8A-9562-42A1-A346-AF17374969DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA5FBEB-A205-40F7-907B-968BFCAC4607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA5FBEB-A205-40F7-907B-968BFCAC4607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA5FBEB-A205-40F7-907B-968BFCAC4607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA5FBEB-A205-40F7-907B-968BFCAC4607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
