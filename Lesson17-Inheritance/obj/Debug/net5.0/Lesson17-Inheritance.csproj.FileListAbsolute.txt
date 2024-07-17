@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\ref\Lesson17-Inheritance.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\bin\Debug\net5.0\Lesson17-Inheritance.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\ref\Lesson17-Inheritance.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson17-Inheritance\obj\Debug\net5.0\Lesson17-Inheritance.genruntimeconfig.cache
