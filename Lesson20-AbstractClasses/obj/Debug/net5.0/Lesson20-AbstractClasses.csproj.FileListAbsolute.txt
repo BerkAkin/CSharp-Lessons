@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\ref\Lesson20-AbstractClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\bin\Debug\net5.0\Lesson20-AbstractClasses.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\ref\Lesson20-AbstractClasses.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson20-AbstractClasses\obj\Debug\net5.0\Lesson20-AbstractClasses.genruntimeconfig.cache
