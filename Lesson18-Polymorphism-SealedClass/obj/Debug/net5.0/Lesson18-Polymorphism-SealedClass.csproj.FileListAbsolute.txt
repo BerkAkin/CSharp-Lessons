@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\ref\Lesson18-Polymorphism-SealedClass.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\bin\Debug\net5.0\Lesson18-Polymorphism-SealedClass.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\ref\Lesson18-Polymorphism-SealedClass.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson18-Polymorphism-SealedClass\obj\Debug\net5.0\Lesson18-Polymorphism-SealedClass.genruntimeconfig.cache

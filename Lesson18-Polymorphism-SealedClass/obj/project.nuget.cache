@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ed/dN0YjQ8/eUmoJiTQp90YksFGbK0M5/K7/8b5OGqvLjGMXRU5tA+e/Ajk1ctw6xUI7jTUlWcET0ZTmxN49VQ==",
+  "dgSpecHash": "2yMvMqjnHCVUd7HyvLr9RvGHhbP76DdaHy3ZXHZtSu0MfKMAr113reBCjasJQET3wG77mtLTyhkl9x3bJR/PMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson18-Polymorphism-SealedClass\\Lesson18-Polymorphism-SealedClass.csproj",
+  "projectFilePath": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson18-Polymorphism-SealedClass\\Lesson18-Polymorphism-SealedClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
