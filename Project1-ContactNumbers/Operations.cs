@@ -70,7 +70,6 @@ namespace Project1_ContactNumbers
 
 
         }
-
         public void Guncelle()
         {
             int islemKir = 2;
@@ -115,7 +114,6 @@ namespace Project1_ContactNumbers
             } while (islemKir != 1);
 
         }
-
         public void Ara()
         {
             Console.WriteLine("Arama Yapmak İstediğiniz Tipi Seçiniz, İsim ve Soyisme göre arama için 1, Numaraya göre arama için 2");
@@ -136,7 +134,6 @@ namespace Project1_ContactNumbers
                     break;
             }
         }
-
         public void Listele()
         {
             foreach (ContactModel kisi in Contacts.liste)
@@ -144,8 +141,6 @@ namespace Project1_ContactNumbers
                 Console.WriteLine(kisi.Name + " " + kisi.Surname + " " + kisi.Number);
             }
         }
-
-
         private void aramaHelper<T>(T giris)
         {
             foreach (ContactModel item in Contacts.liste)
