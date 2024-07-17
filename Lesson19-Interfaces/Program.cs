@@ -6,7 +6,7 @@ namespace Lesson19_Interfaces
     {
         static void Main(string[] args)
         {
-            DatabaseLogger databaseLogger = new DatabaseLogger();
+            DBLogger databaseLogger = new DBLogger();
             databaseLogger.Log();
 
             FileLogger fileLogger = new FileLogger();
@@ -16,19 +16,5 @@ namespace Lesson19_Interfaces
 
 
 
-    class DatabaseLogger : ILogger
-    {
-        public void Log()
-        {
-            Console.WriteLine("Database'e Logladım");
-        }
-    }
 
-    class FileLogger : ILogger
-    {
-        public void Log()
-        {
-            Console.WriteLine("Dosyaya Logladım");
-        }
-    }
 }
