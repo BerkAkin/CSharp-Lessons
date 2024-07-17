@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5LtNqhts886KCSlx+5GZgdO+QjwkEDFgw/zP7Bo0n5xksZ494RPb6Fh6tKwfbIQuEofJMXnx1rQSh7zBkv4jIw==",
+  "dgSpecHash": "b5S72Fs8BHwdV4c6hvRudHCZ5WTehGQhQvjBymkgFkUAbi8ubnf2VZEGYzN1Be7KrXr/BTyH6GduJ1m5SL79sg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
