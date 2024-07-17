@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\ref\Lesson15-Struct.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\bin\Debug\net5.0\Lesson15-Struct.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\ref\Lesson15-Struct.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson15-Struct\obj\Debug\net5.0\Lesson15-Struct.genruntimeconfig.cache
