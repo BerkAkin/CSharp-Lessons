@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0PVit6rApfqU9nur+l6DKayydcOT32PAn1pODLQFni7+neiusjExz0P/NnHBFEov24NDPYYfo9IfHk/eqrkYg==",
+  "dgSpecHash": "EHsUAWEXVG8xL5owiPRtH5fhYcKbJJQZTEQ2oF3DHLQumrR6A/3KvG4xD3GkBkaZMGTl+voHlvpu554iWQ2+fQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson15-Struct\\Lesson15-Struct.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson15-Struct\\Lesson15-Struct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
