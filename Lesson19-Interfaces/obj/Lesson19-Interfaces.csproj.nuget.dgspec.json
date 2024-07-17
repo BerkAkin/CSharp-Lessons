@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj": {}
+    "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj": {
+    "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
+        "projectUniqueName": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
         "projectName": "Lesson19-Interfaces",
-        "projectPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
+        "projectPath": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\Lesson19-Interfaces.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\obj\\",
+        "outputPath": "c:\\Users\\berka\\Desktop\\CSharp-Lessons\\Lesson19-Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

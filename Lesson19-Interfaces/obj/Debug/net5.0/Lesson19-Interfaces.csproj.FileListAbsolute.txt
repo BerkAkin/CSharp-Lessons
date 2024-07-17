@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\ref\Lesson19-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\bin\Debug\net5.0\Lesson19-Interfaces.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\ref\Lesson19-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Lesson19-Interfaces\obj\Debug\net5.0\Lesson19-Interfaces.genruntimeconfig.cache
