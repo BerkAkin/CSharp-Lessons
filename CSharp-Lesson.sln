@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17-Inheritance", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18-Polymorphism-SealedClass", "Lesson18-Polymorphism-SealedClass\Lesson18-Polymorphism-SealedClass.csproj", "{B97926AA-DE96-4A53-A9DE-8425365C0100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson19-Interfaces", "Lesson19-Interfaces\Lesson19-Interfaces.csproj", "{AE7FE1E5-8E28-4B9A-B667-05B4CE14D67C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{B97926AA-DE96-4A53-A9DE-8425365C0100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B97926AA-DE96-4A53-A9DE-8425365C0100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B97926AA-DE96-4A53-A9DE-8425365C0100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7FE1E5-8E28-4B9A-B667-05B4CE14D67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7FE1E5-8E28-4B9A-B667-05B4CE14D67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7FE1E5-8E28-4B9A-B667-05B4CE14D67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7FE1E5-8E28-4B9A-B667-05B4CE14D67C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
