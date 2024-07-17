@@ -11,6 +11,9 @@ namespace Lesson19_Interfaces
 
             FileLogger fileLogger = new FileLogger();
             fileLogger.Log();
+
+            SmsLogger smsLogger = new SmsLogger();
+            smsLogger.Log();
         }
     }
 
