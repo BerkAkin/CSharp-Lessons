@@ -49,7 +49,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20-AbstractClasses", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1-ContactNumbers", "Project1-ContactNumbers\Project1-ContactNumbers.csproj", "{4CC4BDE0-7504-47D1-8E48-E72582594B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prıject2-ToDoApp", "Prıject2-ToDoApp\Prıject2-ToDoApp.csproj", "{DF5A002C-7E57-4ACD-B8D6-9B9EBA5C72FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2-TodoApp", "Project2-TodoApp\Project2-TodoApp.csproj", "{F29DE47C-5D7F-42DB-9E8A-2A6BEA64FFC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,10 +149,10 @@ Global
 		{4CC4BDE0-7504-47D1-8E48-E72582594B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC4BDE0-7504-47D1-8E48-E72582594B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC4BDE0-7504-47D1-8E48-E72582594B85}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DF5A002C-7E57-4ACD-B8D6-9B9EBA5C72FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF5A002C-7E57-4ACD-B8D6-9B9EBA5C72FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF5A002C-7E57-4ACD-B8D6-9B9EBA5C72FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF5A002C-7E57-4ACD-B8D6-9B9EBA5C72FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29DE47C-5D7F-42DB-9E8A-2A6BEA64FFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29DE47C-5D7F-42DB-9E8A-2A6BEA64FFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29DE47C-5D7F-42DB-9E8A-2A6BEA64FFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29DE47C-5D7F-42DB-9E8A-2A6BEA64FFC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
