@@ -1,22 +1,29 @@
 {
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
-            "console": "externalTerminal"
+            // C# hata ayıklaması için hangi özniteliklerin mevcut olduğunu bulmak için IntelliSense’i kullanın
+            // Var olan özniteliklerin açıklaması için vurgulamayı kullanma
+            // Daha fazla bilgi için bkz. https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // Hedef çerçevelerini değiştirdiyseniz, program yolunu güncelleştirdiğinizden emin olun.
+            "program": "${workspaceFolder}/Project1-ContactNumbers/bin/Debug/net5.0/Project1-ContactNumbers.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Project1-ContactNumbers",
+            // 'Konsol' alanı hakkında daha fazla bilgi için bkz. https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "stopAtEntry": false
         },
         {
-            "name": "C#: Lesson1-Console-App",
-            "type": "dotnet",
-            "request": "launch",
-            "projectPath": "${workspaceFolder}\\Lesson1-Console-App\\Lesson1-Console-App.csproj",
-            "launchConfigurationId": "TargetFramework=;Lesson1-Console-App"
-        },
-        {
-            "name": "C#: Lesson2-Variables",
-            "type": "dotnet",
-            "request": "launch",
-            "projectPath": "${workspaceFolder}\\Lesson2-Variables\\Lesson2-Variables.csproj",
-            "launchConfigurationId": "TargetFramework=;Lesson2-Variables"
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
         }
     ]
 }

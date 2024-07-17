@@ -1,0 +1,16 @@
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.exe
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.deps.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.runtimeconfig.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.runtimeconfig.dev.json
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\ref\Lesson16-Enum.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\bin\Debug\net5.0\Lesson16-Enum.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.AssemblyInfo.cs
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\ref\Lesson16-Enum.dll
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.pdb
+C:\Users\berka\Desktop\CSharp-Lessons\Lesson16-Enum\obj\Debug\net5.0\Lesson16-Enum.genruntimeconfig.cache

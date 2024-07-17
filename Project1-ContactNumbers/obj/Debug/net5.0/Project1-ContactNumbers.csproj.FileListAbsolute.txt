@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\ref\Project1-ContactNumbers.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\bin\Debug\net5.0\Project1-ContactNumbers.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\ref\Project1-ContactNumbers.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Project1-ContactNumbers\obj\Debug\net5.0\Project1-ContactNumbers.genruntimeconfig.cache
