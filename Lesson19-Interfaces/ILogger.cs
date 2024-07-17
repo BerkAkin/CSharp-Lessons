@@ -2,8 +2,8 @@ using System;
 
 namespace Lesson19_Interfaces
 {
-    interface ILogger
+    public interface ILogger
     {
-        void Log();
+        public void Log();
     }
 }
