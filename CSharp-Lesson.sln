@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15-Struct", "Lesson15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16-Enum", "Lesson16-Enum\Lesson16-Enum.csproj", "{D517B8D5-F7C6-4910-B43E-0F7D68AB12EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17-Inheritance", "Lesson17-Inheritance\Lesson17-Inheritance.csproj", "{07F85B93-2D79-4DD0-86E6-BD81A5716CC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D517B8D5-F7C6-4910-B43E-0F7D68AB12EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D517B8D5-F7C6-4910-B43E-0F7D68AB12EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D517B8D5-F7C6-4910-B43E-0F7D68AB12EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F85B93-2D79-4DD0-86E6-BD81A5716CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F85B93-2D79-4DD0-86E6-BD81A5716CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F85B93-2D79-4DD0-86E6-BD81A5716CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F85B93-2D79-4DD0-86E6-BD81A5716CC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
