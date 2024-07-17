@@ -1,0 +1,16 @@
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.exe
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.deps.json
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.runtimeconfig.json
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.runtimeconfig.dev.json
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\ref\Practise-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\bin\Debug\net5.0\Practise-Interfaces.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.csproj.AssemblyReference.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.AssemblyInfoInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.AssemblyInfo.cs
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.csproj.CoreCompileInputs.cache
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\ref\Practise-Interfaces.dll
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.pdb
+c:\Users\berka\Desktop\CSharp-Lessons\Practise-Interfaces\obj\Debug\net5.0\Practise-Interfaces.genruntimeconfig.cache
