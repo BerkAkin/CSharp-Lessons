@@ -7,12 +7,12 @@ namespace Project2_TodoApp
         private string _title;
         private string _content;
         private string _size;
-        private KisiListesi _people;
+        private string _people;
 
         public string Title { get => _title; set => _title = value; }
         public string Content { get => _content; set => _content = value; }
         public string Size { get => _size; set => _size = value; }
-        public KisiListesi People { get => _people; set => _people = value; }
+        public string People { get => _people; set => _people = value; }
 
         public Card(string title, string content, string size)
         {
@@ -21,7 +21,7 @@ namespace Project2_TodoApp
             this._size = size;
         }
 
-        public Card(string title, string content, string size, KisiListesi people)
+        public Card(string title, string content, string size, string people)
         {
             this._people = people;
             this._title = title;
