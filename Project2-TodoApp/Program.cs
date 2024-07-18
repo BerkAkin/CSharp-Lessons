@@ -6,7 +6,7 @@ namespace Project2_TodoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
