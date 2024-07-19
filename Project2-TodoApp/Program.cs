@@ -9,11 +9,14 @@ namespace Project2_TodoApp
         static void Main(string[] args)
         {
             Operations kartIslem = new Operations();
-            //kartIslem.AddCard();
-            kartIslem.ShowCards();
-            //kartIslem.DeleteCard();
+
+            Console.WriteLine("-----------------------------------------");
             kartIslem.MoveCard();
             kartIslem.ShowCards();
+
+            Console.WriteLine("-----------------------------------------");
+            Console.ReadKey();
+
 
         }
     }

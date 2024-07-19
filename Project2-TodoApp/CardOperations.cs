@@ -39,7 +39,7 @@ namespace Project2_TodoApp
 
                 try
                 {
-                    Card card = new Card(baslik, icerik, boyut.ToString(), KisiService.GetKisiAdi(kisiId));
+                    Card card = new Card(baslik.ToLower(), icerik.ToLower(), boyut.ToString(), KisiService.GetKisiAdi(kisiId));
                     Board.Todo.Add(card);
                     Console.WriteLine("KART OLUŞTURMA BAŞARILI");
                 }
@@ -67,15 +67,16 @@ namespace Project2_TodoApp
             do
             {
                 Console.WriteLine("Silinmek İstenen Kartın Başlığı Nedir?");
-                string baslik = Console.ReadLine();
+                string baslik = Console.ReadLine().ToLower();
                 bool silindiMi = false;
 
                 List<Card> cardSource = FindCardLocationHelper(baslik);
-                DeleteCardHelper(cardSource, baslik);
+                silindiMi = DeleteCardHelper(cardSource, baslik);
 
                 if (silindiMi)
                 {
                     Console.WriteLine("Silme İşlemi Başarılı");
+                    islem = 1;
                 }
                 else
                 {
@@ -87,7 +88,7 @@ namespace Project2_TodoApp
         public void MoveCard()
         {
             Console.WriteLine("Hareket ettirmek istediğiniz kartın başlığı nedir?");
-            string baslik = Console.ReadLine();
+            string baslik = Console.ReadLine().ToLower();
 
             List<Card> sourceList = FindCardLocationHelper(baslik);
 
@@ -144,7 +145,7 @@ namespace Project2_TodoApp
         }
         private bool DeleteCardHelper(List<Card> cardSource, string baslik)
         {
-            var cardToRemove = cardSource.FirstOrDefault(card => card.Title == baslik);
+            var cardToRemove = cardSource.FirstOrDefault(card => card.Title == baslik.ToLower());
             if (cardToRemove != null)
             {
                 cardSource.Remove(cardToRemove);
@@ -158,15 +159,15 @@ namespace Project2_TodoApp
 
         private List<Card> FindCardLocationHelper(string baslik)
         {
-            if (Board.Todo.Any(card => card.Title == baslik))
+            if (Board.Todo.Any(card => card.Title == baslik.ToLower()))
             {
                 return Board.Todo;
             }
-            else if (Board.InProgress.Any(card => card.Title == baslik))
+            else if (Board.InProgress.Any(card => card.Title == baslik.ToLower()))
             {
                 return Board.InProgress;
             }
-            else if (Board.Done.Any(card => card.Title == baslik))
+            else if (Board.Done.Any(card => card.Title == baslik.ToLower()))
             {
                 return Board.Done;
             }

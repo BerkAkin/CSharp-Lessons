@@ -13,11 +13,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // Hedef çerçevelerini değiştirdiyseniz, program yolunu güncelleştirdiğinizden emin olun.
-            "program": "${workspaceFolder}/Project1-ContactNumbers/bin/Debug/net5.0/Project1-ContactNumbers.dll",
+            "program": "${workspaceFolder}/Project2-TodoApp/bin/Debug/net5.0/Project2-TodoApp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Project1-ContactNumbers",
+            "cwd": "${workspaceFolder}/Project2-TodoApp",
             // 'Konsol' alanı hakkında daha fazla bilgi için bkz. https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "stopAtEntry": false
         },
         {
