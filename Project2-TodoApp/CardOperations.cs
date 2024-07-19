@@ -8,20 +8,13 @@ namespace Project2_TodoApp
     public class Operations
 
     {
-        private Dictionary<int, string> kisiListesi = new Dictionary<int, string>();
         public Operations()
         {
-            //Operations sınıfı ilk başladığında varsayılan olarak tüm atamalar yapılır.
-            kisiListesi.Add(1, "Berk Akın");
-            kisiListesi.Add(2, "Cem Dara");
-            kisiListesi.Add(3, "Semah Ay");
-            kisiListesi.Add(4, "Elif Kara");
 
-            Card gorev1 = new Card("gorev1", "gorev1 aciklama", Sizes.S.ToString(), kisiListesi[1]);
-            Card gorev2 = new Card("gorev2", "gorev2 aciklama", Sizes.M.ToString(), kisiListesi[2]);
-            Card gorev3 = new Card("gorev3", "gorev3 aciklama", Sizes.XL.ToString(), kisiListesi[3]);
+            Card gorev1 = new Card("gorev1", "gorev1 aciklama", Sizes.S.ToString(), KisiService.GetKisiAdi(1));
+            Card gorev2 = new Card("gorev2", "gorev2 aciklama", Sizes.M.ToString(), KisiService.GetKisiAdi(2));
+            Card gorev3 = new Card("gorev3", "gorev3 aciklama", Sizes.XL.ToString(), KisiService.GetKisiAdi(3));
 
-            //Varsayılan Atamalar
             Board.Todo.Add(gorev1);
             Board.InProgress.Add(gorev2);
             Board.Done.Add(gorev3);
@@ -46,7 +39,7 @@ namespace Project2_TodoApp
 
                 try
                 {
-                    Card card = new Card(baslik, icerik, boyut.ToString(), kisiListesi[kisiId]);
+                    Card card = new Card(baslik, icerik, boyut.ToString(), KisiService.GetKisiAdi(kisiId));
                     Board.Todo.Add(card);
                     Console.WriteLine("KART OLUŞTURMA BAŞARILI");
                 }
@@ -54,8 +47,6 @@ namespace Project2_TodoApp
                 {
                     Console.WriteLine("Hata Oluştu" + ex.Message);
                 }
-
-
 
             }
             else
