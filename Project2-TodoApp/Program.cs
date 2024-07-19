@@ -11,11 +11,8 @@ namespace Project2_TodoApp
             Operations kartIslem = new Operations();
             //kartIslem.AddCard();
             kartIslem.ShowCards();
-            kartIslem.DeleteCard();
-            kartIslem.ShowCards();
-            kartIslem.DeleteCard();
-            kartIslem.ShowCards();
-            kartIslem.DeleteCard();
+            //kartIslem.DeleteCard();
+            kartIslem.MoveCard();
             kartIslem.ShowCards();
 
         }
