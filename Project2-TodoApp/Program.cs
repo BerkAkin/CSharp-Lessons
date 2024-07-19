@@ -14,9 +14,8 @@ namespace Project2_TodoApp
             int islem = -1;
             do
             {
-                Console.WriteLine("Yapmak İstediğiniz İşlemi Seçin, LİSTEYE KİŞİ EKLEME(1), LİSTEDEN KİŞİ SİLME(2), KİŞİ LİSTESİNİ GÖSTERME(3)");
-                Console.WriteLine("YENİ KART OLUŞTURMA(4), KART SİLME(5), KART TAŞIMA(6), KARTLARI LİSTELEME(7)");
-                Console.WriteLine("ÇIKIŞ(0)");
+                Console.WriteLine("Yapmak İstediğiniz İşlem Numarasını Girin, LİSTEYE KİŞİ EKLEME(1), LİSTEDEN KİŞİ SİLME(2), KİŞİ LİSTESİNİ GÖSTERME(3)");
+                Console.WriteLine("YENİ KART OLUŞTURMA(4), KART SİLME(5), KART TAŞIMA(6), KARTLARI LİSTELEME(7), ÇIKIŞ(0)");
                 islem = Convert.ToInt32(Console.ReadLine());
 
                 switch (islem)

@@ -26,7 +26,7 @@ namespace Project2_TodoApp
             string baslik = Console.ReadLine();
             Console.WriteLine("Kart için içerik bilgisi giriniz");
             string icerik = Console.ReadLine();
-            Console.WriteLine("Kart için büyüklük bilgisi giriniz, (5)XL,(4)L,(3)M,(2)S,(1)XS");
+            Console.WriteLine("Kart için büyüklük bilgisi numarasını girin, (5)XL,(4)L,(3)M,(2)S,(1)XS");
             short buyukluk = Convert.ToInt16(Console.ReadLine());
             Sizes boyut = (Sizes)buyukluk;
 
